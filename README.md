@@ -1,5 +1,8 @@
 # Guided scale texture for face presentation attack detection (aka face anti-spoofing or spoofing detection)
+
 ## Peng, F., Qin, L., Long, M. Face presentation attack detection using guided scale texture. Multimedia Tools and Applications, DOI: 10.1007/s11042-017-4780-0, 2017
+
+## Paper online: https://link.springer.com/article/10.1007/s11042-017-4780-0
 
 ----------------------------------------------------------
 ---Implementation of guided scale texture in face presentation attack detection---
