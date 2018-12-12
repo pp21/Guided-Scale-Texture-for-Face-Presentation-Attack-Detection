@@ -63,7 +63,7 @@ College of Computer and Communication Engineering, Changsha University of Scienc
 Contact
 ============
 
-For any question, please contact Prof. Fei Peng <eepengf@gmail.com> and Le Qin <qinle@hnu.edu.cn>.
+For any question, please contact Prof. Fei Peng <eepengf@gmail.com> or Le Qin <qinle@hnu.edu.cn>.
 
 Please kindly cite our paper as follow when you use it. Thank you.
 
