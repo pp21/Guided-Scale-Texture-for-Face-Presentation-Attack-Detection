@@ -58,7 +58,7 @@ The implementation of LBP is licensed to Timo Ojala, Matti Pietikainen, and Topi
 
 The implementation of guided image filtering is licensed to Kaiming He, Jian Sun, and Xiaoou Tang
 
-The implementation of guided scale texture is licensed to Fei Peng, Le Qin, and Min Long, 
+The implementation of guided scale texture is licensed to Peng Fei, Qin Le, and Long Min, 
 College of Computer Science and Electronic Engineering, Hunan University, Changsha, China.
 College of Computer and Communication Engineering, Changsha University of Science and Technology, Changsha, China.
 
@@ -66,7 +66,7 @@ College of Computer and Communication Engineering, Changsha University of Scienc
 Contact
 ============
 
-For any question, please contact Prof. Fei Peng <eepengf@gmail.com> or Le Qin <qinle@hnu.edu.cn>.
+For any question, please contact Prof. Peng Fei <eepengf@gmail.com> or Qin Le <qinle@hnu.edu.cn>.
 
 Please kindly cite our paper as follow when you use it. Thank you.
 
