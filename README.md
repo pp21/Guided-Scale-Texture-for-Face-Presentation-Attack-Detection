@@ -66,8 +66,8 @@ College of Computer and Communication Engineering, Changsha University of Scienc
 Contact
 ============
 
-For any question, please contact Prof. Peng Fei <eepengf@gmail.com> or Qin Le <qinle@hnu.edu.cn>.
+For any question, please contact Qin Le <qinle@hnu.edu.cn>.
 
-Please kindly cite our paper as follow when you use it. Thank you.
+Please kindly cite our paper as follow if you use it. Thank you.
 
 Please cite as: Peng, F., Qin, L., Long, M. Face presentation attack detection using guided scale texture. Multimedia Tools and Applications, DOI: 10.1007/s11042-017-4780-0, 2017
